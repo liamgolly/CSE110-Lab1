@@ -5,14 +5,14 @@
 
 ## Projects
 Project Completion Status (link to github if it is public)
-- [x] [Robotics Tshirt Cannon Controller](https://github.com/AlphaKnights/Tshirt-Cannon-2020) - [Java]()
-- [x] [Robotics Competition Robot Controller](https://github.com/liamgolly/Robot-Code) - [Java]()
-- [x] [Airport xray drivers]() - [C]()
-- [x] [Battery charing drivers]() - [C]()
-- [x] [Book agregation site to epub scraper]() - [Python]()
-- [ ] [Custom DAW](https://github.com/liamgolly/ECE-45-DAW) - [C#]() / [C++]()
-- [ ] [Voxel Mesh Generation Library]() - [C++]()
-- [ ] [Android note taking app]() - [C#]()
+- [x] [Robotics Tshirt Cannon Controller](https://github.com/AlphaKnights/Tshirt-Cannon-2020) - [Java](https://github.com/liamgolly/CSE110-Lab1/blob/main/index.md#languages)
+- [x] [Robotics Competition Robot Controller](https://github.com/liamgolly/Robot-Code) - [Java](https://github.com/liamgolly/CSE110-Lab1/blob/main/index.md#languages)
+- [x] [Airport xray drivers]() - [C](https://github.com/liamgolly/CSE110-Lab1/blob/main/index.md#languages)
+- [x] [Battery charing drivers]() - [C](https://github.com/liamgolly/CSE110-Lab1/blob/main/index.md#languages)
+- [x] [Book agregation site to epub scraper]() - [Python](https://github.com/liamgolly/CSE110-Lab1/blob/main/index.md#languages)
+- [ ] [Custom DAW](https://github.com/liamgolly/ECE-45-DAW) - [C# / C++](https://github.com/liamgolly/CSE110-Lab1/blob/main/index.md#languages)
+- [ ] [Voxel Mesh Generation Library]() - [C++](https://github.com/liamgolly/CSE110-Lab1/blob/main/index.md#languages)
+- [ ] [Android note taking app]() - [C#](https://github.com/liamgolly/CSE110-Lab1/blob/main/index.md#languages)
 - ... and many others lost to time before I used github.
 ## Languages
 1. C# - 9/10
