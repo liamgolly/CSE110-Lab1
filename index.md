@@ -15,6 +15,7 @@ Project Completion Status (link to github if it is public)
 - [ ] [Android note taking app]() - [C#](https://github.com/liamgolly/CSE110-Lab1/blob/main/index.md#languages)
 - ... and many others lost to time before I used github.
 ## Languages
+
 1. C# - 9/10
    - The best language, at this point it can probably do everything. I have probably been using this language for over 10 years and have completed many projects with it.
   
