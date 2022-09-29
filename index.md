@@ -1,6 +1,8 @@
 # Liams Page
 ## About Me
 *I'm going to format this like a resume since I'm unsure of what else to do.* 
+
+I'm a CE Major from UCSD who enjoys working on small solo projects to expand my skills in C# and C/C++.
 #### [Readme of this github!](README.md)
 
 ## Projects
