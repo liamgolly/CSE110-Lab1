@@ -1,3 +1,5 @@
 # CSE110-Lab1
 Liam's User Page
-Why more people don't use c# for everything is still beyond me, as it's apps now can be cross platform, web based or local, gui or command line. 
+[Link to Github Pages!](https://liamgolly.github.io/CSE110-Lab1/) <br>
+On this page is has some strange formatting issues, I included a screenshot of what it appears as when viewing in vs code in the screenshots folder.
+
