@@ -30,7 +30,7 @@ Project Completion Status (link to github if it is public)
    - A quote from a friend of mine that has been programming python since she was born, I use this language whenever I have to make a small web-based program where I think that the overhead of using another language would outweigh the benefits it would give. I enjoy using python from time to time since it is easy to make small apps due to the simplicity of the language.
   
 4. C++ - 5/10
-   - Overrated in my opinion, many of the features it adds only seem to add complexity, like the needless complexity of creating and using function pointers:
+   - Overrated in my opinion, many of the features it adds only seem to add complexity, like the needless complexity of creating and using function pointers: <br>
    ```c++
    void foo(int x, float y, bool z) {}
    // ...
